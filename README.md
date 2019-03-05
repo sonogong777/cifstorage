@@ -1,4 +1,4 @@
-# cifscomplete 
+# cifstorage 
 # krhee@synamedia.com
 # Enable CIFS for media source.
 #
@@ -37,4 +37,8 @@ WORKFLOW:
 2. scp cifrepo.repo.tgz to v2pc repo.
 3. execute /home/v2pc/cifrepo.sh to create links.
 4. execute /root/cifsetup.sh.
-4. Enable workflow confirm the /media directories being mount.
+5. Enable workflow confirm the /media directories being mount.
+6. node service is managed through systemd.
+   + systemctl status storage.service
+
+

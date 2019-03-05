@@ -1,0 +1,55 @@
+{
+        "contentId": "IRIS_DLVY0020237847006192",
+        "contentName": "IRIS_DLVY0020237847006192",
+        "statusCallback": {
+                "url": "http://12.0.0.10/CAB/assetnotf"
+        },
+        "mediaSource": {
+                "ebpMode": true,
+                "streams": [{
+                                "name": "a",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/1.ts"
+                        },
+                        {
+                                "name": "b",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/2.ts"
+                        },
+                        {
+                                "name": "c",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/3.ts"
+                        },
+                        {
+                                "name": "d",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/4.ts"
+                        },
+                        {
+                                "name": "e",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/5.ts"
+                        },
+                        {
+                                "name": "f",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/6.ts"
+                        },
+                        {
+                                "name": "g",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/7.ts"
+                        },
+                        {
+                                "name": "h",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/8.ts"
+                        },
+                        {
+                                "name": "i",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/9.ts"
+                        },
+                        {
+                                "name": "j",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/10.ts"
+                        },
+                        {
+                                "name": "k",
+                                "sourceUrl": "file:///mnt/cif/samba/IRIS_DLVY0020237847006192/11.ts"
+                        }
+                ]
+        }
+}
